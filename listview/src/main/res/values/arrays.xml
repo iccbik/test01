@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item>程序设计1</item>
+        <item>程序设计2</item>
+        <item>程序设计3</item>
+        <item>程序设计4</item>
+        <item>程序设计5</item>
+        <item>程序设计6</item>
+        <item>程序设计7</item>
+        <item>程序设计8</item>
+        <item>程序设计9</item>
+        <item>程序设计10</item>
+        <item>程序设计11</item>
+        <item>程序设计1</item>
+        <item>程序设计2</item>
+        <item>程序设计3</item>
+        <item>程序设计4</item>
+        <item>程序设计5</item>
+        <item>程序设计6</item>
+        <item>程序设计7</item>
+        <item>程序设计8</item>
+        <item>程序设计9</item>
+        <item>程序设计10</item>
+        <item>程序设计11</item>
+    </string-array>
+</resources>
